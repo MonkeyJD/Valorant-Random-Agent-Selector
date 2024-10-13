@@ -81,7 +81,7 @@ switch(type){
         break;
     case 'N':
         initiate = 0;
-        printf("Go smokes then lil bro");
+        printf("Go smokes then lil bro \n");
         break;
     default: 
         printf("Go smokes then lil bro");
